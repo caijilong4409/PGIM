@@ -23,7 +23,7 @@ source .venv/bin/activate
 uv pip install -r code/requirements.txt
 ```
 
-These commands create a virtual environment in `.venv` and install the required packages. See the [uv environment guide](https://docs.astral.sh/uv/pip/environments/) and [package installation guide](https://docs.astral.sh/uv/pip/packages/) for details.
+See the [uv environment guide](https://docs.astral.sh/uv/pip/environments/) and [package installation guide](https://docs.astral.sh/uv/pip/packages/) for details.
 
 ## Data
 
